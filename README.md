@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi, I'm Daniel
+ 
+## 🔐 About Me
+ 
+Recent tech graduate passionate about cybersecurity, building skills through projects.
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/daniel-valtchanov) | [Email](mailto:daniel.valtchanov@gmail.com)
+---
+ 
+## 🚀 Projects
+ 
+| Project | Description | Tech |
+|---|---|---|
+| [Splunk](https://github.com/your-username/project-1) | Implemented Splunk SIEM | `Promox` `Splunk` `Sysmon` |
 
-<!--
-**xDexterity/xDexterity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
