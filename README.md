@@ -10,6 +10,6 @@ Recent tech graduate passionate about cybersecurity, building skills through pro
  
 | Project | Description | Tech |
 |---|---|---|
-| [Splunk](https://github.com/your-username/project-1) | Implemented Splunk SIEM | `Promox` `Splunk` `Sysmon` |
+| [Proxmox & Tailscale ](https://github.com/your-username/project-1) | Implemented Proxmox VM Management | `Proxmox` `Debian` `Tailscale`  |
 
  
