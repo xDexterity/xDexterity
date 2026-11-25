@@ -10,6 +10,6 @@ Recent tech graduate passionate about cybersecurity, building skills through pro
  
 | Project | Description | Tech |
 |---|---|---|
-| [Proxmox & Tailscale ](https://github.com/your-username/project-1) | Implemented Proxmox VM Management | `Proxmox` `Debian` `Tailscale`  |
+| [Proxmox](https://github.com/xDexterity/Homelab-setup) | Implemented Proxmox VE Server | `Proxmox` `Debian`  |
 
  
